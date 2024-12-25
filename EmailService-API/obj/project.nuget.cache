@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "FmXcZlfihgA=",
+  "success": true,
+  "projectFilePath": "/Users/orucovaarif/RiderProjects/EmailService-API/EmailService-API/EmailService-API.csproj",
+  "expectedPackageFiles": [
+    "/Users/orucovaarif/.nuget/packages/bouncycastle.cryptography/2.5.0/bouncycastle.cryptography.2.5.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/mailkit/4.9.0/mailkit.4.9.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/mimekit/4.9.0/mimekit.4.9.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/system.formats.asn1/8.0.1/system.formats.asn1.8.0.1.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
+    "/Users/orucovaarif/.nuget/packages/system.text.encoding.codepages/8.0.0/system.text.encoding.codepages.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
